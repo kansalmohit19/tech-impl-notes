@@ -13,7 +13,8 @@ Each entry aims to explain:
 ## Table of Contents
 
 1. [Custom HashMap Implementation](01-MyHashMap.md)
-2. [Rate Limiter (Coming Soon)]()
+2. [Rate Limiter](02-RateLimiter.md)
+3. [Double Check Singleton Class (Coming Soon)]()
 
 ---
 
