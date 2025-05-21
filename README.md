@@ -14,8 +14,8 @@ Each entry aims to explain:
 
 1. [Custom HashMap Implementation](01-MyHashMap.md)
 2. [Rate Limiter](02-RateLimiter.md)
-3. [Double Check Singleton Class (Coming Soon)]()
-4. [LRU Cache (Coming Soon)]()
+3. [LRU Cache](03-LRUCache.md)
+4. [Double Check Singleton Class (Coming Soon)]()
 
 ---
 
