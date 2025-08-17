@@ -4,7 +4,7 @@ This example demonstrates the difference between **sequential execution**, **con
 
 ---
 
-## 🔹 Code Example
+## Code Example
 
 ```kotlin
 import kotlinx.coroutines.*
@@ -57,7 +57,7 @@ fun main() = runBlocking {
 
 ---
 
-## 🔹 Explanation
+## Explanation
 
 1. **Sequential Execution**  
    - Runs one task after another on the same thread.  
@@ -75,7 +75,7 @@ fun main() = runBlocking {
 
 ---
 
-## 🔹 Key Takeaways
+## Key Takeaways
 
 - Use **`Dispatchers.IO`** for I/O-bound tasks (network calls, DB queries, file I/O).  
 - Use **`Dispatchers.Default`** for CPU-bound tasks (loops, computation, image processing).  
